@@ -1,0 +1,8 @@
+pandas==2.3.3
+scikit-learn==1.7.2
+shap
+matplotlib
+PyQt5
+lime
+flask
+flask-cors

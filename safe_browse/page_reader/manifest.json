@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Page Redder",
+  "version": "2.0",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "notifications"
+  ],
+  "host_permissions": [
+    "http://localhost:5000/*" 
+  ],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
