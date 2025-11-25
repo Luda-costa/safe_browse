@@ -56,14 +56,17 @@ Se tudo estiver correto, o terminal exibirá uma mensagem indicando que o servid
 ```
 
 **5. Instale a extensão no Chrome**
-Abra o Chrome e acesse chrome://extensions/.
 
+Abra o Chrome e acesse chrome://extensions/.
+<br>
 Ative o “Modo desenvolvedor” no canto superior direito.
 <img width="1850" height="931" alt="Design sem nome (3)" src="https://github.com/user-attachments/assets/1e509b0a-1455-44de-91bb-66e45c115e45" />
 
 
 Clique em Load unpacked e selecione a pasta page_reader.
-<img width="1850" height="931" alt="Design sem nome (4)" src="https://github.com/user-attachments/assets/02eaa88d-a5b8-4455-924a-265984dc9471" />
+<br>
+<img width="1850" height="931" alt="Design sem nome (5)" src="https://github.com/user-attachments/assets/832dce44-9a95-4285-93b8-00934b9ac311" />
+
 
 Pronto, a extensão estará pronta para uso!
 
